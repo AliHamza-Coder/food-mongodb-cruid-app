@@ -39,7 +39,7 @@ A beautiful, responsive food management application built with **Next.js 15**, *
 
 ### 1. Clone Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AliHamza-Coder/food-mongodb-cruid-app.git
 cd food-manager
 ```
 
